@@ -1,4 +1,4 @@
-MultiMolCGC.py: train a model without pretraining using MultiMolCGC model
+`MultiMolCGC.py`: train a model without pretraining using MultiMolCGC model
 
 usage:
 ```
@@ -9,7 +9,7 @@ example:
 python MultiMolCGC.py --data_csv potency_train_val.csv --output_path cgc_pred.csv 
 ```
 
-MultiMolCGC_pt.py: train a model with pretraining using MultiMolCGC model
+`MultiMolCGC_pt.py`: train a model with pretraining using MultiMolCGC model
 
 usage:
 ```
